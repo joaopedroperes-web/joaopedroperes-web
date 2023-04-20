@@ -1,6 +1,5 @@
 <h2 align="center">  Olá, sou o João Pedro e sejam bem vindos ao meu perfil. </h2>
 <br>
-<br>
 
 - Estudante de Ciência da computação
 - Inglês avançado

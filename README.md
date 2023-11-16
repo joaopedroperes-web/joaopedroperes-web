@@ -1,15 +1,15 @@
-<h2 align="center">  Olá, sou o João Pedro e sejam bem vindos ao meu perfil. </h2>
+<h2 align="center">  Hi, my name is João Pedro and welcome to my profile. </h2>
 <br>
 
-- Estudante de Ciência da computação
-- Inglês avançado
-- Espanhol básico
+- Computer science student
+- Advanced english
+- Basic spanish
 
 <img align="left" width="45%" src="https://camo.githubusercontent.com/b099b3ffdbbea58eaf85abb977bdf7d1deadd712f9e068edb1452c1134f805e8/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6a6f616f706564726f70657265732d7765622673686f775f69636f6e733d74727565267468656d653d6461726b" data-canonical-src="https://github-readme-stats.vercel.app/api?username=joaopedroperes-web&show_icons=true&theme=dark" style="max-width: 100%;">
 
 <img width="47%" src="https://camo.githubusercontent.com/9432b460e3c1c72017b0489b5342ea0941b0b05ed22da4972f8986a74b15da15/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6a6f616f706564726f70657265732d776562266c61796f75743d636f6d7061637426686964653d636d616b652c6a7570797465722532306e6f7465626f6f6b267468656d653d6461726b" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedroperes-web&layout=compact&hide=cmake,jupyter%20notebook&theme=dark" style="max-width: 100%;"><br>
 
-### Tecnologias que uso no meu dia a dia
+### Tecnologies I use daily
 
 
 <div style="display: inline_block"><br>
@@ -24,12 +24,12 @@
 
 </div><br>
 
-- Conhecimento em Scrum
-- Estudando Flutter, CSS e JavaScript no momento
+- Knowledge in Scrum
+- Studying right now JavaScript and React
 
 <div style="display: inline_block"><br>
 
-#### Redes sociais:
+#### Social media:
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](siqueirajoaopedroperes@gmail.com)
 [![Email](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-pedro-peres-programmer/)

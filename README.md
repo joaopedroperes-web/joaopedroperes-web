@@ -9,7 +9,7 @@
 
 <img width="47%" src="https://camo.githubusercontent.com/9432b460e3c1c72017b0489b5342ea0941b0b05ed22da4972f8986a74b15da15/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6a6f616f706564726f70657265732d776562266c61796f75743d636f6d7061637426686964653d636d616b652c6a7570797465722532306e6f7465626f6f6b267468656d653d6461726b" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaopedroperes-web&layout=compact&hide=cmake,jupyter%20notebook&theme=dark" style="max-width: 100%;"><br>
 
-### Tecnologies I use daily
+### Tecnologies I use daily/used in the past
 
 
 <div style="display: inline_block"><br>
